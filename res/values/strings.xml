@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UHFDemo</string>
+    <string name="hello_world">Hello world!</string>
+   <!-- devlist -->
+    <string name="btDisconnect">断开连接</string>
+    <string name="rbPairedDev">已配对设备</string>
+    <string name="rbNewDev">未配对设备</string>
+    <string name="btTest">测试</string>
+    <string name="tvDevList">蓝牙设备列表</string>
+    <!-- 合成 -->
+	<string-array name="engine_entries">
+        <item>本地合成</item>
+        <item>在线合成</item>
+    </string-array>
+    <string-array name="engine_values">
+        <item>local</item>
+        <item>cloud</item>
+    </string-array>
+    <string-array name="role_msc_entries">
+        <item>小燕</item>
+        <item>楠楠</item>
+        <item>小芸</item>
+        <item>小新</item>
+        <item>小莉</item>
+        <item>小蓉</item>
+    </string-array>
+    <string-array name="role_msc_values">
+        <item>xiaoyan</item>
+        <item>vinn</item>
+        <item>vixyun</item>
+        <item>vixx</item>
+        <item>vixl</item>
+        <item>vixr</item>
+    </string-array>  
+    <string name="title_activity_wakeuper_demo">WakeuperDemo</string>
+    <string name="action_settings">Settings</string>
+</resources>
